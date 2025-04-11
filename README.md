@@ -1,5 +1,8 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-Name: Thanakit
+
+Name: Thanakit Rattikkanchalakorn 
 ID: 6688098
 Section: 2
+=======
+
